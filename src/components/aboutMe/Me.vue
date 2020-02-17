@@ -307,7 +307,7 @@ export default {
 <style>
   @import "../../css/lanren.css";
   .pic{
-    background-image: linear-gradient(to top, transparent,transparent,transparent,transparent,transparent, rgb(255,255,255)), url("https://api.dujin.org/bing/1366.php");
+    background-image: linear-gradient(to top, transparent,transparent,transparent,transparent,transparent, rgb(255,255,255)), url('../../assets/main.jpg');
     height: 95%;
   }
   .el-container{

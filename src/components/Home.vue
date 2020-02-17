@@ -64,7 +64,12 @@
         <div style="padding:0px 100px; animation: fadein 3s;"><!--          通过这种方式限制分割线的长度-->
           <el-divider></el-divider>
         </div>
-      <el-footer></el-footer>
+      <el-footer>
+        <div>
+          <span style="color: #f8f8f8; font-size: 10px;">备案：申请中</span>
+          <span style="color: #f8f8f8; font-size: 10px;">源码地址：https://github.com/ziqidong/webziqi</span>
+        </div>
+      </el-footer>
     </el-container>
     </div>
   </div>
@@ -115,7 +120,8 @@ export default {
   }
   .pic{
     /*https://api.dujin.org/bing/1366.php*/
-    background-image: linear-gradient(to top, transparent,transparent,transparent,transparent,transparent, rgb(255,255,255)), url("https://api.dujin.org/bing/1366.php");
+    /*background-image: linear-gradient(to top, transparent,transparent,transparent,transparent,transparent, rgb(255,255,255)), url('http://blog.mrabit.com/bing/today ');*/
+    background-image: linear-gradient(to top, transparent,transparent,transparent,transparent,transparent, rgb(255,255,255)), url('../assets/main.jpg');
     height: 95%;
   }
   .el-container{
