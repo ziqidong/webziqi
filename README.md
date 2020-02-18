@@ -35,13 +35,13 @@ Next step i will use spring boot and spring security, mysql to develop back end 
 At present it has three main function:
 
 home page:
-![image](https://github.com/ziqidong/webziqi/raw/master/images/1.png)
+![image](https://github.com/ziqidong/webziqi/raw/master/images/1.jpg)
 
 the page shows my photography:
-![image](https://github.com/ziqidong/webziqi/raw/master/images/2.png)
+![image](https://github.com/ziqidong/webziqi/raw/master/images/2.jpg)
 
 the page shows my travel journal:
-![image](https://github.com/ziqidong/webziqi/raw/master/images/3.png)
+![image](https://github.com/ziqidong/webziqi/raw/master/images/3.jpg)
 
 the page shows my personal informatioin:
-![image](https://github.com/ziqidong/webziqi/raw/master/images/4.png)
+![image](https://github.com/ziqidong/webziqi/raw/master/images/4.jpg)
